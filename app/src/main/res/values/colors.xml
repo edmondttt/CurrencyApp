@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/colors.xml -->
+<resources>
+    <color name="primary_color">#ECD6DC</color>
+    <color name="primary_color_lg">#D7ECFB</color>
+    <color name="primary_color_land">#E1F8E2</color>
+</resources>
